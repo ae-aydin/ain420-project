@@ -1,0 +1,20 @@
+# parent
+# ├── data_prep
+# ├── yolov5
+# └── data
+#     └── images
+#         └── train
+#         └── test
+#         └── val
+#     └── labels
+#         └── train
+#         └── test
+#         └── val
+
+path: ../data
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: litter
