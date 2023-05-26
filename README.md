@@ -1,3 +1,3 @@
 # AIN420 Project - Litter Detection
 
-(Demo)[https://huggingface.co/spaces/ae-aydin/litter-detection]
+<a href="https://huggingface.co/spaces/ae-aydin/litter-detection">Demo</a>
