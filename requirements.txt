@@ -1,0 +1,8 @@
+pandas
+opencv-python
+torch
+ultralytics
+gdown
+numpy
+imagehash
+Pillow
